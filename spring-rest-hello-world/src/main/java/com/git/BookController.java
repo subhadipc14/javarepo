@@ -1,6 +1,6 @@
-package com.mkyong;
+package com.git;
 
-import com.mkyong.error.BookNotFoundException;
+import com.git.error.BookNotFoundException;
 import com.mkyong.error.BookUnSupportedFieldPatchException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
