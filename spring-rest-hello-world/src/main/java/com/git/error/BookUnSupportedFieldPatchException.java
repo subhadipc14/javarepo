@@ -1,4 +1,4 @@
-package com.mkyong.error;
+package com.git.error;
 
 import java.util.Set;
 

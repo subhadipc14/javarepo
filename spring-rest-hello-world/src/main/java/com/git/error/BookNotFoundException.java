@@ -1,4 +1,4 @@
-package com.mkyong.error;
+package com.git.error;
 
 public class BookNotFoundException extends RuntimeException {
 
